@@ -1,17 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5214cf8e-848f-421b-b147-5d578c8e4742" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../rainmachine/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../rainmachine/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../rainmachine/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../rainmachine/.idea/rainmachine.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../rainmachine/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../rainmachine/test.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../rainmachine/test2.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../rainmachine/test3.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../rainmachine/test4.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../rainmachine/test5.py" />
+    <list default="true" id="5214cf8e-848f-421b-b147-5d578c8e4742" name="Default" comment="test">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../rainmachine/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../rainmachine/.idea/workspace.xml" />
     </list>
     <ignored path="untitled.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -102,6 +93,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="cosmin" />
+      </list>
+    </option>
     <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../rainmachine" />
     <option name="AUTO_COMMIT_ON_CHERRY_PICK" value="true" />
@@ -437,7 +433,14 @@
       <option name="project" value="LOCAL" />
       <updated>1468858757088</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="test">
+      <created>1468858956213</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1468858956213</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TodoView">
@@ -453,7 +456,7 @@
     <frame x="2391" y="-9" width="2418" height="1318" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14544688" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14544688" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32958478" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
